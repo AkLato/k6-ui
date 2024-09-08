@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.text-att-blue {
+  color: #009fdb;
+}
+.text-att-orange {
+  color: #fc7900;
+}
+.bg-att-blue {
+  background-color: #009fdb;
+}
+.bg-att-orange {
+  background-color: #fc7900;
+}
+.hover\:bg-att-blue-dark:hover {
+  background-color: #0077a6;
+}
+.hover\:bg-att-orange-dark:hover {
+  background-color: #e66d00;
+}
